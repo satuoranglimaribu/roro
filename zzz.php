@@ -3,6 +3,6 @@
 		<title>Coba</title>
 	</head>
 <body>
-	<?php echo "Hello as" ?>
+	<?php echo "Hello word" ?>
 </body>
 </html>
